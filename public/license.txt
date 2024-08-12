@@ -1,0 +1,8 @@
+Model Information:
+* title:	Car Trailer "the Chariot"
+* source:	https://sketchfab.com/3d-models/car-trailer-the-chariot-d18a91b5578c4e6fa9e8fa0f4f892655
+* author:	KrStolorz (Krzysztof Stolorz) (https://sketchfab.com/KrStolorz)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
