@@ -11,7 +11,6 @@ const matchMedia = () => {
   let desktopRef = useRef(null);
   let mobileRef = useRef(null);
   let containerRef = useRef(null);
-  let clickRef = useRef(null);
   const myButton = useRef<HTMLButtonElement | null>(null);
   let mm = gsap.matchMedia(),
     breakPoint = 800;
